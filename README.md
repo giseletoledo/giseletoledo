@@ -1,10 +1,10 @@
-English (EN)
+English presentation (EN)
 - 👋 Hi, I’m @gisesma
 - 👀 I’m interested in mobile development with flutter
 - 🌱 I’m currently learning dart and flutter
 
 -----------------------------------------------------------------------
-Português (PT-BR)
+Apresentação em Português (PT-BR)
 - 👋 Oi, Sou a @gisesma
 - 👀 Tenho interesse em desenvolvimento mobile com flutter
 - 🌱 Estou estudando dart and flutter
