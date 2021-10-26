@@ -16,3 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisesma)](https://github.com/gisesma/github-readme-stats)
+
+<a href="https://github.com/gisesma/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gisesma&repo=github-readme-stats" />
+</a>
