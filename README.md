@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 ## :pushpin: Meus projetos:
 
->> [ProjetosAndroid Kotlin](https://github.com/gisesma/TodolistSantander)
->> [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)
->>[Projeto Spring Java](https://github.com/gisesma/projeto-sd3)
+- :iphone: [Projetos Android Kotlin](https://github.com/gisesma/TodolistSantander)
+- :mortar_board: [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)
+- :computer: [Projeto Spring Java](https://github.com/gisesma/projeto-sd3)
 
 [![Gisesma GitHub stats](https://github-readme-stats.vercel.app/api?username=gisesma&theme=vue&show_icons=true)](https://github.com/gisesma/github-readme-stats)
 
