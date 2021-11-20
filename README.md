@@ -1,13 +1,17 @@
 ## :memo: Apresentação em Português (PT-BR)
-👋 Oi, Sou a @gisesma
-👀 Tenho interesse em desenvolvimento mobile com flutter
-:books: Estou estudando dart and flutter
+<ul>
+<li>👋 Oi, Sou a @gisesma</li>
+<li>👀 Tenho interesse em desenvolvimento mobile com flutter</li>
+<li>:books: Estou estudando dart and flutter</li>
+</ul>
 
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
-👋 Hi, I’m @gisesma
-👀 I’m interested in mobile development with flutter
-:books: I’m currently learning dart and flutter
+<ul>
+<li>👋 Hi, I’m @gisesma</li>
+<li>👀 I’m interested in mobile development with flutter</li>
+<li>:books: I’m currently learning dart and flutter</li>
+</ul>
 
 <!---
 gisesma/gisesma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +19,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## :pushpin: Meus projetos:
-:iphone: [Projetos Android Kotlin](https://github.com/gisesma/TodolistSantander)
-:mortar_board: [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)
-:computer: [Projeto Spring Java](https://github.com/gisesma/projeto-sd3)
+<ul>
+<li>:iphone: [Projetos Android Kotlin](https://github.com/gisesma/TodolistSantander)</li>
+<li>:mortar_board: [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)</li>
+<li>:computer: [Projeto Spring Java](https://github.com/gisesma/projeto-sd3)</li>
+</ul>
 
 [![Gisesma GitHub stats](https://github-readme-stats.vercel.app/api?username=gisesma&theme=vue&show_icons=true)](https://github.com/gisesma/github-readme-stats)
 
