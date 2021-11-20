@@ -1,5 +1,5 @@
 ## :memo: Apresentação em Português (PT-BR)
-<ul>
+<ul style="list-style-type:none">
 <li>👋 Oi, Sou a @gisesma</li>
 <li>👀 Tenho interesse em desenvolvimento mobile com flutter</li>
 <li>:books: Estou estudando dart and flutter</li>
@@ -7,7 +7,7 @@
 
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
-<ul>
+<ul style="list-style-type:none">
 <li>👋 Hi, I’m @gisesma</li>
 <li>👀 I’m interested in mobile development with flutter</li>
 <li>:books: I’m currently learning dart and flutter</li>
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## :pushpin: Meus projetos:
-<ul>
+<ul style="list-style-type:none">
 <li>:iphone: [Projetos Android Kotlin](https://github.com/gisesma/TodolistSantander)</li>
 <li>:mortar_board: [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)</li>
 <li>:computer: [Projeto Spring Java](https://github.com/gisesma/projeto-sd3)</li>
