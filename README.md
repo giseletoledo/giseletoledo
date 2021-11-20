@@ -18,7 +18,7 @@ gisesma/gisesma is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## :pushpin: Meus projetos:
+## :pushpin: Projetos Recentes
 
 - :iphone: [Projeto Android Kotlin](https://github.com/gisesma/TodolistSantander)
 - :mortar_board: [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)
