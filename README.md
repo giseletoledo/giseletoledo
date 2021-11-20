@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :pushpin: Meus projetos:
 
-- :iphone: [Projetos Android Kotlin](https://github.com/gisesma/TodolistSantander)
+- :iphone: [Projeto Android Kotlin](https://github.com/gisesma/TodolistSantander)
 - :mortar_board: [Projeto da Faculdade](https://github.com/gisesma/flutterappfisio)
 - :computer: [Projeto Spring Java](https://github.com/gisesma/projeto-sd3)
 
