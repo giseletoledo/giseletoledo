@@ -2,7 +2,7 @@
 <ul style="list-style-type:none">
 <li>👋 Oi, Sou a @gisesma</li>
 <li>👀 Tenho interesse em desenvolvimento mobile com flutter</li>
-<li>:books: Estou estudando dart and flutter</li>
+<li>:books: Estou estudando dart e flutter</li>
 </ul>
 
 -----------------------------------------------------------------------
