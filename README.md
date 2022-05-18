@@ -18,9 +18,7 @@ giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Gisele's github stats](https://github-readme-stats.vercel.app/api?username=giseletoledo)
+[![Gisele](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=giseletoledo)](https://github.com/giseletoledo)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giseletoledo)](https://github.com/giseletoledo/github-readme-stats)
 
 
