@@ -1,12 +1,12 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele</li>
-  <li>👀 Tenho interesse em desenvolvimento mobile com flutter</li>
-  <li>:books: Estou estudando dart e flutter</li>
+  <li>👀 Tenho interesse em desenvolvimento mobile</li>
+  <li>:books: Estou estudando desenvolvimento Nativo com Android, iOS e hibrido com Flutter</li>
 </ul>
 
 ## Tecnologias
-Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Estudei na faculdade Python no desenvolvimento, Orientação a objetos, frameworks web. Em 2022 fiz o curso Backend Programmer com foco em NodeJS e MySql. Estudo desenvolvimento mobile e participei de alguns Bootcamps e continuo estudando atualmente e atualizando o github com projetos e quero trabalhar nessa área.
+Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Meu github está atualizado com projetos de cursos e Bootcamps, tem Java, Android, Flutter, Orientação a objetos, frameworks web. Recentemente fiz o curso Backend Programmer com foco em NodeJS e MySql. Atualmente meu foco é desenvolvimento mobile, porque tenho interesse em trabalhar nessa área.
 
 <img style="display:block;margin:auto;" src="https://github.com/giseletoledo/giseletoledo/blob/main/logos_tecnologias.png" alt="logos de tecnologias, Android, Kotlin, Flutter,Dart, Swift, Java, Spring,VSCode,Git,MySql, Nodejs e Python"/>
 
