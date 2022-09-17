@@ -20,7 +20,9 @@ Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Estudei na faculdade Py
   <li>👀 I’m interested in mobile development with flutter</li>
   <li>:books: I’m currently learning dart and flutter</li>
 </ul>
+
 ## Tecnologies
+
 I worked using HTML, CSS, Javascript, Bootstrap e Python on my previous job. I study the language Python for developing web applications, Object Oriented, frameworks web. In 2022 I study  NodeJS e MySql in the course Backend Programmer. Nowadays I am studying mobile development, because I want to get a job, so updating my github with new projects.
 
 <!---
