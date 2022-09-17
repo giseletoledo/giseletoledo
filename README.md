@@ -1,6 +1,6 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
-  <li>👋 Oi, Sou a @giseletoledo</li>
+  <li>👋 Oi, Sou a Gisele</li>
   <li>👀 Tenho interesse em desenvolvimento mobile com flutter</li>
   <li>:books: Estou estudando dart e flutter</li>
 </ul>
@@ -15,7 +15,7 @@ Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Estudei na faculdade Py
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
 <ul style="list-style-type:none">
-  <li>👋 Hi, I’m @giseletoledo</li>
+  <li>👋 Hi, I’m Gisele</li>
   <li>👀 I’m interested in mobile development with flutter</li>
   <li>:books: I’m currently learning dart and flutter</li>
 </ul>
