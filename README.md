@@ -23,7 +23,7 @@ Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Estudei na faculdade Py
 
 ## Technologies
 
-I worked using HTML, CSS, Javascript, Bootstrap e Python on my previous job. I study the language Python for developing web applications, Object Oriented, frameworks web, NodeJS e MySql in the course Backend Programmer (2022). Nowadays I am studying mobile development, because I want to get a job, so updating my github with new projects.
+I worked using HTML, CSS, Javascript, Bootstrap e Python on my previous job. I study the language Python for developing web applications, Object Oriented, frameworks web, NodeJS e MySql in the course Backend Programmer (2022) and always updating my github with new projects. Nowadays I am studying mobile development, because I want to get a job working developing apps.
 
 <!---
 giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
