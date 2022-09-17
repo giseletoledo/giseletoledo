@@ -7,7 +7,7 @@
 
 ## Tecnologias
 Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Estudei na faculdade Python no desenvolvimento, Orientação a objetos, frameworks web. Em 2022 fiz o curso Backend Programmer com foco em NodeJS e MySql. Estudo desenvolvimento mobile e participei de alguns Bootcamps e continuo estudando atualmente e atualizando o github com projetos e quero trabalhar nessa área.
-<div style="text-align: center;">
+<div style="padding:300px;">
 <img src="https://github.com/giseletoledo/giseletoledo/blob/main/logos_tecnologias.png" alt="logos de linguagens e ferramentas de desenvolvimento">
 </div>
 
