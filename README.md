@@ -7,13 +7,7 @@
 
 ## Tecnologias
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<i class="fa fa-github"></i>          
-          
-<div style="display:flex;">
 
-          
-</div>
 
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
