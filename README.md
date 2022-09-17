@@ -16,8 +16,8 @@ Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Meu github está atuali
 ## :memo: English presentation (EN)
 <ul style="list-style-type:none">
   <li>👋 Hi, I’m Gisele</li>
-  <li>👀 I’m interested in mobile development with flutter</li>
-  <li>:books: I’m currently learning dart and flutter</li>
+  <li>👀 I’m interested in mobile development</li>
+  <li>:books: I’m currently learning mobile native and Flutter</li>
 </ul>
 
 ## Technologies
