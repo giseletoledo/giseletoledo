@@ -21,7 +21,7 @@ Trabalhei com HTML, CSS, Javascript, Bootstrap e Python. Meu github está atuali
 </ul>
 
 ## Technologies
-I worked using HTML, CSS, Javascript, Bootstrap e Python on my previous job. My github has been updated with new projects that I learned through courses about web applications, OOP (Object Oriented Programming), Frameworks web, Bootcamps Android, Java and recently I finished the course Backend Programmer (NodeJS and MySql). Nowadays I am studying mobile development, because I want to get a job developing mobile apps.
+I worked using HTML, CSS, Javascript, Bootstrap e Python on my previous job. My github has been updated with new projects about web applications, OOP (Object Oriented Programming), Frameworks web, Bootcamps Android, Java and recently I finished the course Backend Programmer (NodeJS and MySql). Nowadays I am studying mobile development, because I want to get a job developing mobile apps.
 
 <!---
 giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
