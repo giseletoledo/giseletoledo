@@ -1,6 +1,8 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele</li>
+  <li> 💻 Trabalho com web desde 2011, comecei com animações e infográficos com Adobe Flash, fiz a transição de tecnologia para Javascript com HTML5, desenvolvi páginas responsivas utilizando Bootstrap, funcionalidades que incluem API, testes com selenium e cypress.
+  </li>
   <li>:books: Estou estudando desenvolvimento Mobile</li>
 </ul>
 
