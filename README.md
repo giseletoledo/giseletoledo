@@ -4,36 +4,43 @@
   <li>:books: Estou estudando desenvolvimento Mobile</li>
 </ul>
 
+## Mobile
+
+### iOS
+<p>https://github.com/giseletoledo/wheatherapp - viewcode</p>
+<p>https://github.com/giseletoledo/iquiz - storyboard</p>
+<p>https://github.com/giseletoledo/chefdelivery - SwiftUI</p>
+
+### Flutter
+
+<p>https://github.com/giseletoledo/contatosapp - sqlite</p>
+<p>https://github.com/giseletoledo/expensesapp - provider</p>
+<p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
+<p>https://github.com/giseletoledo/dw9_delivery_api</p>
+
+
+### Android
+<p>https://github.com/giseletoledo/MoviesApp - MVVM</p>
+
 ## Frontend
-HTML
-CSS
-Javascript
-Bootstrap
+
+### HTML - CSS - Javascript - Bootstrap - Angular - React
+
+https://github.com/giseletoledo/reactnd-project-myreads
+
+https://github.com/giseletoledo/angular-fundamentos
 
 ## Backend
-Python
-https://github.com/giseletoledo/pythonSql
 
-Javascript
-https://github.com/giseletoledo/backend-challenge-nodejs
+### Python
+<p>https://github.com/giseletoledo/pythonSql</p>
 
-Java
+### Javascript - Nodejs
+<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
+<p>https://github.com/giseletoledo/OnMovies</p>
 
-## Mobile
-Android
-https://github.com/giseletoledo/MoviesApp - MVVM
-https://github.com/giseletoledo/challenge-space-app-android/tree/main/solutions/devsprint-bruno-almeida-2
-
-iOS
-https://github.com/giseletoledo/wheatherapp - viewcode
-https://github.com/giseletoledo/iquiz - storyboard
-https://github.com/giseletoledo/chefdelivery - SwiftUI
-
-
-Flutter
-https://github.com/giseletoledo/contatosapp - sqlite
-https://github.com/giseletoledo/expensesapp - provider
-https://github.com/giseletoledo/flutter-app-fisio - firebase e provider
+### Java - Spring
+https://github.com/giseletoledo/bootcamp-java-star-wars
 
 <p align="center">
 <img style="display:block;margin:auto;" src="https://github.com/giseletoledo/giseletoledo/blob/main/logos_tecnologias.png" alt="logos de tecnologias, Android, Kotlin, Flutter,Dart, Swift, Java, Spring,VSCode,Git,MySql, Nodejs e Python"/>
