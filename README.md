@@ -18,7 +18,7 @@
 <p>https://github.com/giseletoledo/contatosapp - backend com back4app</p>
 <p>https://github.com/giseletoledo/expensesapp - provider</p>
 <p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
-<p>https://github.com/giseletoledo/dw9_delivery_api</p>
+<p>https://github.com/giseletoledo/dw9_delivery_api - provider e bloc</p>
 
 
 ### Android
