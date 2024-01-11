@@ -58,7 +58,9 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 </ul>
 
 ## Technologies
-I worked using HTML, CSS, Javascript, Bootstrap e Python on my previous job. Nowadays I am studying mobile development, because I want to get a job developing mobile apps.
+- Frontend - HTML, CSS, Javascript, Bootstrap
+- Backend - Python, Java
+Nowadays I am studying mobile development, because I want to get a job developing mobile apps.
 
 <!---
 giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
