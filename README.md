@@ -1,7 +1,7 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele</li>
-  <li> 💻 Comecei a trabalhar com web em 2011, no início com animações e infográficos utilizando a linguagem actionscript com Adobe Flash, fiz a transição de tecnologia para Javascript com HTML5, desenvolvi páginas responsivas utilizando Bootstrap, funcionalidades que incluem consumo de API, testes de telas com Selenium e Cypress. Participei de projetos que utilizavam metodologias ágeis, sprints e entregas de tarefas do backlog.
+  <li> 💻 Comecei a trabalhar com web em 2011, no início com jogos educativos, animações e infográficos utilizando a linguagem actionscript com Adobe Flash, fiz a transição de tecnologia para Javascript com HTML5, desenvolvi páginas responsivas utilizando Bootstrap, funcionalidades que incluem consumo de API, testes de telas com Selenium e Cypress. Participei de projetos que utilizavam metodologias ágeis, sprints e entregas de tarefas do backlog.
   </li>
   <li>:books: Estou estudando desenvolvimento Mobile</li>
 </ul>
@@ -53,7 +53,7 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 ## :memo: English presentation (EN)
 <ul style="list-style-type:none">
   <li>👋 Hi, I’m Gisele</li>
-  <li> I worked sice 2011 with web development, started creating educational games animations with actionscript 3.0 (Adobe Flash) and I made the transition of technology to animations with Javascript and HTML5 designing responsive web pages with Bootstrap, working with API and tests with Selenium and Cypress. I participate in teams that used agile methodology.
+  <li> I worked sice 2011 with web development, started creating educational games and animations with actionscript 3.0 (Adobe Flash) and I made the transition of technology to animations with Javascript and HTML5 designing responsive web pages with Bootstrap, working with API and tests with Selenium and Cypress. I participate in teams that used agile methodology.
   <li>:books: I’m currently learning mobile native and Flutter</li>
 </ul>
 
