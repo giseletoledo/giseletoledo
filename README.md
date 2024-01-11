@@ -1,7 +1,7 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele</li>
-  <li> 💻 Trabalho com web desde 2011, comecei com animações e infográficos com Adobe Flash, fiz a transição de tecnologia para Javascript com HTML5, desenvolvi páginas responsivas utilizando Bootstrap, funcionalidades que incluem API, testes com Selenium e Cypress. Participei de sprints e entreguei tarefas do backlog em equipes que trabalham com metodologias ágeis.
+  <li> 💻 Comecei a trabalhar com web em 2011, no início com animações e infográficos utilizando a linguagem actionscript com Adobe Flash, fiz a transição de tecnologia para Javascript com HTML5, desenvolvi páginas responsivas utilizando Bootstrap, funcionalidades que incluem consumo de API, testes de telas com Selenium e Cypress. Participei de projetos que utilizavam metodologias ágeis, sprints e entregas de tarefas do backlog.
   </li>
   <li>:books: Estou estudando desenvolvimento Mobile</li>
 </ul>
