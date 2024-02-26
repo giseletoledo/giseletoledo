@@ -15,25 +15,29 @@
 <p>https://github.com/giseletoledo/iquiz - storyboard</p>
 <p>https://github.com/giseletoledo/chefdelivery - SwiftUI</p>
 
+### Flutter
+<p>https://github.com/giseletoledo/expensesapp - provider</p>
+
+
 ## Projetos de estudos
 
 ### Flutter
 
 <p>https://github.com/giseletoledo/contatosbloc - gerenciamento de estado com cubit (bloc), backend com back4app</p>
-<p>https://github.com/giseletoledo/expensesapp - provider</p>
 <p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
 
-### Javascript - Nodejs
-<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
-<p>https://github.com/giseletoledo/OnMovies</p>
-
-
-## Dartweek 9 | Flutter
+## Dartweek 9 
 <p>https://github.com/giseletoledo/dw9_delivery_api - provider e bloc</p>
 
 
 ### Android
 <p>https://github.com/giseletoledo/MoviesApp - MVVM</p>
+
+
+### Javascript - Nodejs | Backend
+<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
+<p>https://github.com/giseletoledo/OnMovies</p>
+
 
 ## Frontend
 
