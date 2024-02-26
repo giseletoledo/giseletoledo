@@ -6,18 +6,29 @@
   <li>:books: Estou estudando desenvolvimento Mobile</li>
 </ul>
 
-## Mobile
+# Mobile
+
+## Projetos de cursos com adição de features extras 
 
 ### iOS
 <p>https://github.com/giseletoledo/wheatherapp - viewcode</p>
 <p>https://github.com/giseletoledo/iquiz - storyboard</p>
 <p>https://github.com/giseletoledo/chefdelivery - SwiftUI</p>
 
+## Projetos de estudos
+
 ### Flutter
 
 <p>https://github.com/giseletoledo/contatosbloc - gerenciamento de estado com cubit (bloc), backend com back4app</p>
 <p>https://github.com/giseletoledo/expensesapp - provider</p>
 <p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
+
+### Javascript - Nodejs
+<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
+<p>https://github.com/giseletoledo/OnMovies</p>
+
+
+## Dartweek 9 | Flutter
 <p>https://github.com/giseletoledo/dw9_delivery_api - provider e bloc</p>
 
 
@@ -37,9 +48,8 @@ https://github.com/giseletoledo/angular-fundamentos
 ### Python
 <p>https://github.com/giseletoledo/pythonSql</p>
 
-### Javascript - Nodejs
-<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
-<p>https://github.com/giseletoledo/OnMovies</p>
+### Kotlin Spring | Bootcamp
+https://github.com/giseletoledo/credit-request-system
 
 ### Java - Spring
 https://github.com/giseletoledo/bootcamp-java-star-wars
