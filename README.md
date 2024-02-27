@@ -36,6 +36,8 @@
 
 ### Javascript - Nodejs | Backend
 <p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
+
+#### Projeto do Treinamento da K2
 <p>https://github.com/giseletoledo/OnMovies</p>
 
 
@@ -55,7 +57,7 @@ https://github.com/giseletoledo/angular-fundamentos
 ### Kotlin Spring | Bootcamp
 https://github.com/giseletoledo/credit-request-system
 
-### Java - Spring
+### Java - Spring | Bootcamp
 https://github.com/giseletoledo/bootcamp-java-star-wars
 
 <p align="center">
