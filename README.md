@@ -56,7 +56,7 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 ## :memo: English presentation (EN)
 <ul style="list-style-type:none">
   <li>👋 Hi, I’m Gisele</li>
-  <li> I worked sice 2011 with web development, started creating educational games and animations with actionscript 3.0 (Adobe Flash) and I made the transition of technology to animations with Javascript and HTML5 designing responsive web pages with Bootstrap, working with API and tests with Selenium and Cypress. I participate in teams that used agile methodology.
+  <li> I worked sice 2011 with web development, started creating educational games and animations with actionscript 3.0 (Adobe Flash) and I made the transition of technology to animations with Javascript and HTML5 designing responsive web pages with Bootstrap, working with API and tests with Selenium and Cypress. I have experience working in agile teams.
   <li>:books: I’m currently learning mobile native and Flutter</li>
 </ul>
 
