@@ -57,9 +57,7 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 
 # Mobile
 
-## Projetos de cursos com adição de features extras 
-
-### iOS
+### iOS | Projetos de cursos com adição de features extras 
 <p>https://github.com/giseletoledo/wheatherapp - viewcode</p>
 <p>https://github.com/giseletoledo/iquiz - storyboard</p>
 <p>https://github.com/giseletoledo/chefdelivery - SwiftUI</p>
@@ -68,9 +66,9 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
           
 
 ### Flutter
-<p>https://github.com/giseletoledo/expensesapp - provider</p>
+<p>https://github.com/giseletoledo/expensesapp - provider</p> 
 <p>https://github.com/giseletoledo/contatosbloc - gerenciamento de estado com cubit (bloc), backend com back4app</p>
-<p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
+<p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p> 
 
 <div style="display: flex; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" />
