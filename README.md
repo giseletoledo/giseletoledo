@@ -1,10 +1,42 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele</li>
-  <li> 💻 Comecei a trabalhar com web em 2011, no início com jogos educativos, animações e infográficos utilizando a linguagem actionscript com Adobe Flash, fiz a transição de tecnologia para Javascript com HTML5, desenvolvi páginas responsivas utilizando Bootstrap, funcionalidades que incluem consumo de API, testes de telas com Selenium e Cypress. Participei de projetos que utilizavam metodologias ágeis, sprints e entregas de tarefas do backlog.
+  <li> 💻 Comecei a trabalhar com web em 2011, no início com jogos educativos, animações e infográficos utilizando a linguagem actionscript com Adobe Flash, devido a necessidade de uso em dispositivos móveis fiz a transição de tecnologia para Javascript com HTML5. 
+    A partir de 2014, comecei a desenvolver páginas responsivas em times ágeis, consumo de API, desenvolvimento de aplicação backend com node.js, testes com Selenium e mais recentemente testes com Cypress.
   </li>
-  <li>:books: Estou estudando desenvolvimento Mobile</li>
+  <li>:books: Interesse em desenvolvimento Mobile</li>
 </ul>
+
+
+## Frontend
+
+### React
+
+https://github.com/giseletoledo/api 
+
+https://github.com/giseletoledo/angular-fundamentos
+
+
+### Angular 
+https://github.com/giseletoledo/reactnd-project-myreads
+
+## Backend
+
+### Javascript - Nodejs
+<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
+
+#### Projeto do Treinamento da K2
+<p>https://github.com/giseletoledo/OnMovies</p>
+
+### Python
+<p>https://github.com/giseletoledo/pythonSql</p>
+
+### Kotlin Spring | Bootcamp
+https://github.com/giseletoledo/credit-request-system
+
+### Java - Spring | Bootcamp
+https://github.com/giseletoledo/bootcamp-java-star-wars
+
 
 # Mobile
 
@@ -17,53 +49,8 @@
 
 ### Flutter
 <p>https://github.com/giseletoledo/expensesapp - provider</p>
-
-
-## Projetos de estudos
-
-### Flutter
-
 <p>https://github.com/giseletoledo/contatosbloc - gerenciamento de estado com cubit (bloc), backend com back4app</p>
 <p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
-
-## Dartweek 9 
-<p>https://github.com/giseletoledo/dw9_delivery_api - provider e bloc</p>
-
-
-### Android
-<p>https://github.com/giseletoledo/MoviesApp - MVVM</p>
-
-
-### Javascript - Nodejs | Backend
-<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
-
-#### Projeto do Treinamento da K2
-<p>https://github.com/giseletoledo/OnMovies</p>
-
-
-## Frontend
-
-### HTML - CSS - Javascript - Bootstrap - Angular - React
-
-https://github.com/giseletoledo/reactnd-project-myreads
-
-https://github.com/giseletoledo/angular-fundamentos
-
-## Backend
-
-### Python
-<p>https://github.com/giseletoledo/pythonSql</p>
-
-### Kotlin Spring | Bootcamp
-https://github.com/giseletoledo/credit-request-system
-
-### Java - Spring | Bootcamp
-https://github.com/giseletoledo/bootcamp-java-star-wars
-
-<p align="center">
-<img style="display:block;margin:auto;" src="https://github.com/giseletoledo/giseletoledo/blob/main/logos_tecnologias.png" alt="logos de tecnologias, Android, Kotlin, Flutter,Dart, Swift, Java, Spring,VSCode,Git,MySql, Nodejs e Python"/>
-</p>
-
 
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
