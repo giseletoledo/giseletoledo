@@ -16,9 +16,16 @@ https://github.com/giseletoledo/api
 
 https://github.com/giseletoledo/angular-fundamentos
 
-
 ### Angular 
 https://github.com/giseletoledo/reactnd-project-myreads
+
+<div style="display: flex; gap: 20px;">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
+</div>
 
 ## Backend
 
@@ -37,6 +44,16 @@ https://github.com/giseletoledo/credit-request-system
 ### Java - Spring | Bootcamp
 https://github.com/giseletoledo/bootcamp-java-star-wars
 
+<div style="display: flex; gap: 20px;">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />          
+</div>  
+
+- Banco de dados -  SQL, MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+
 
 # Mobile
 
@@ -47,10 +64,20 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 <p>https://github.com/giseletoledo/iquiz - storyboard</p>
 <p>https://github.com/giseletoledo/chefdelivery - SwiftUI</p>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40" />
+          
+
 ### Flutter
 <p>https://github.com/giseletoledo/expensesapp - provider</p>
 <p>https://github.com/giseletoledo/contatosbloc - gerenciamento de estado com cubit (bloc), backend com back4app</p>
 <p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p>
+
+<div style="display: flex; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</div>          
+                
 
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
@@ -60,25 +87,6 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
   <li>:books: I am interested in developing mobile apps for iOS and Android. I have built several apps that you can see on my GitHub profile</li>
 </ul>
 
-## Technologies
-
-- Frontend - HTML, CSS, Javascript, Angular, React
-
-<div style="display: flex; gap: 20px;margin-left: auto;margin-right: auto; ">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
-</div>
-     <br/>     
-
-- Backend -  Java, Node.JS
-
-<div style="display: flex; gap: 20px; margin-bottom:20px">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-</div>          
 <!---
 giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
