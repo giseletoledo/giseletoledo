@@ -57,17 +57,35 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 <ul style="list-style-type:none">
   <li>👋 Hi, I’m Gisele</li>
   <li> I worked sice 2011 with web development, started creating educational games and animations with actionscript 3.0 (Adobe Flash) and I made the transition of technology to animations with Javascript and HTML5 designing responsive web pages with Bootstrap, working with API and tests with Selenium and Cypress. I have experience working in agile teams.
-  <li>:books: I’m currently learning mobile native and Flutter</li>
+  <li>:books: I am interested in developing mobile apps for iOS and Android. I have built several apps that you can see on my GitHub profile</li>
 </ul>
 
 ## Technologies
-- Frontend - HTML, CSS, Javascript, Bootstrap
-- Backend - Python, Java
-Nowadays I am studying mobile development, because I want to get a job developing mobile apps.
 
+- Frontend - HTML, CSS, Javascript, Angular, React
+
+<div style="display: flex; gap: 20px;margin-left: auto;margin-right: auto; ">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
+</div>
+     <br/>     
+
+- Backend -  Java, Node.JS
+
+<div style="display: flex; gap: 20px; margin-bottom:20px">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+</div>          
 <!---
 giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+           
+          
 
 
