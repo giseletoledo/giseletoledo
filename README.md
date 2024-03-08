@@ -3,6 +3,7 @@
   <li>👋 Oi, Sou a Gisele</li>
   <li> 💻 Comecei a trabalhar com web em 2011, no início com jogos educativos, animações e infográficos utilizando a linguagem actionscript com Adobe Flash, devido a necessidade de uso em dispositivos móveis fiz a transição de tecnologia para Javascript com HTML5. 
     A partir de 2014, comecei a desenvolver páginas responsivas em times ágeis, consumo de API, desenvolvimento de aplicação backend com node.js, testes com Selenium e mais recentemente testes com Cypress.
+    Gosto de participar de comunidades tech e eventos, sempre tentando auxiliar quem está começando.
   </li>
   <li>:books: Interesse em desenvolvimento Mobile</li>
 </ul>
