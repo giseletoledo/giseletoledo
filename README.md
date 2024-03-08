@@ -13,9 +13,9 @@
 
 ### React
 
-https://github.com/giseletoledo/todo-list
-https://github.com/giseletoledo/reactcontext
-https://github.com/giseletoledo/reactnd-project-myreads
+<p>https://github.com/giseletoledo/todo-list</p>
+<p>https://github.com/giseletoledo/reactcontext</p>
+<p>https://github.com/giseletoledo/reactnd-project-myreads</p>
 
 
 ### Angular 
