@@ -85,6 +85,9 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 
 <p>https://github.com/giseletoledo/MoviesApp</p>
 <p>https://github.com/giseletoledo/challenge-space-app-android</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>
+          
+          
                 
 
 -----------------------------------------------------------------------
