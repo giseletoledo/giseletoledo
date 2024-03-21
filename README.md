@@ -19,8 +19,11 @@
 
 
 ### Angular 
-https://github.com/giseletoledo/api 
 
+https://github.com/giseletoledo/ntt-movie
+https://github.com/giseletoledo/ntt-todolist
+
+https://github.com/giseletoledo/api 
 https://github.com/giseletoledo/angular-fundamentos
 
 
