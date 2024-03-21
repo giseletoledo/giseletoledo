@@ -20,11 +20,11 @@
 
 ### Angular 
 
-https://github.com/giseletoledo/ntt-movie
-https://github.com/giseletoledo/ntt-todolist
+<p>https://github.com/giseletoledo/ntt-movie</p>
+<p>https://github.com/giseletoledo/ntt-todolist</p>
 
-https://github.com/giseletoledo/api 
-https://github.com/giseletoledo/angular-fundamentos
+<p>https://github.com/giseletoledo/api</p>
+<p>https://github.com/giseletoledo/angular-fundamentos</p>
 
 
 <div style="display: flex; gap: 20px;">
