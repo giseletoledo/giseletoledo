@@ -46,7 +46,7 @@ Banco de dados -  SQL, MySQL, H2
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
 </div>
 
-## Frontend
+## Frontend (Web)
 
 ### React
 
