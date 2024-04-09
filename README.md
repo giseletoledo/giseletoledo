@@ -8,87 +8,61 @@
   <li>:books: Interesse em desenvolvimento Mobile</li>
 </ul>
 
+# Mobile
+### iOS
+<p>https://github.com/giseletoledo/wheatherapp</p>  
 
-## Frontend
+### Android
+<p>https://github.com/giseletoledo/hq-comic-app</p>
 
-### React
-
-<p>https://github.com/giseletoledo/todo-list</p>
-<p>https://github.com/giseletoledo/reactcontext</p>
-<p>https://github.com/giseletoledo/reactnd-project-myreads</p>
-
-
-### Angular 
-
-<p>https://github.com/giseletoledo/ntt-movie</p>
-<p>https://github.com/giseletoledo/ntt-todolist</p>
-
-<p>https://github.com/giseletoledo/api</p>
-<p>https://github.com/giseletoledo/angular-fundamentos</p>
-
+### Flutter
+<p>https://github.com/giseletoledo/contatosbloc</p>
 
 <div style="display: flex; gap: 20px;">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" alt="Swift" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" alt="Flutter" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" alt="Android" height="40"/>  
+</div> 
 
 ## Backend
 
 ### Javascript - Nodejs
 <p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
 
-#### Projeto do Treinamento da K2
-<p>https://github.com/giseletoledo/OnMovies</p>
+### Java - Spring 
+https://github.com/giseletoledo/academianttv2
 
-### Python
-<p>https://github.com/giseletoledo/pythonSql</p>
-
-### Kotlin Spring | Bootcamp
+### Kotlin Spring
 https://github.com/giseletoledo/credit-request-system
 
-### Java - Spring | Bootcamp
-https://github.com/giseletoledo/bootcamp-java-star-wars
-
 <div style="display: flex; gap: 20px;">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />          
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" alt="Java" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" alt="NPM" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" height="40" />       
 </div>  
 
-- Banco de dados -  SQL, MySQL
+Banco de dados -  SQL, MySQL, H2
+<div style="display: flex; gap: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+</div>
 
+## Frontend
 
-# Mobile
+### React
 
-### iOS | Projetos de cursos com adição de features extras 
-<p>https://github.com/giseletoledo/wheatherapp - viewcode</p>
-<p>https://github.com/giseletoledo/iquiz - storyboard</p>
-<p>https://github.com/giseletoledo/chefdelivery - SwiftUI</p>
+<p>https://github.com/giseletoledo/todo-list</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40" />
-          
+### Angular 
 
-### Flutter
-<p>https://github.com/giseletoledo/expensesapp - provider</p> 
-<p>https://github.com/giseletoledo/contatosbloc - gerenciamento de estado com cubit (bloc), backend com back4app</p>
-<p>https://github.com/giseletoledo/flutter-app-fisio - firebase e provider</p> 
+<p>https://github.com/giseletoledo/ntt-movie</p>
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
-</div>    
-
-### Android
-<p>https://github.com/giseletoledo/MoviesApp</p>
-<p>https://github.com/giseletoledo/challenge-space-app-android</p>
-<p>https://github.com/giseletoledo/hq-comic-app</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>               
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" alt="Angular" height="40" />
+</div>
 
 -----------------------------------------------------------------------
 ## :memo: English presentation (EN)
@@ -102,9 +76,3 @@ https://github.com/giseletoledo/bootcamp-java-star-wars
 giseletoledo/giseletoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-           
-          
-
-
