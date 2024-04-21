@@ -8,44 +8,6 @@
   <li>:books: Interesse em desenvolvimento Mobile</li>
 </ul>
 
-## Mobile
-### iOS
-<p>https://github.com/giseletoledo/wheatherapp</p>  
-
-### Android
-<p>https://github.com/giseletoledo/hq-comic-app</p>
-
-### Flutter
-<p>https://github.com/giseletoledo/contatosbloc</p>
-
-<div style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" alt="Swift" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" alt="Flutter" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" alt="Android" height="40"/>  
-</div> 
-
-## Backend
-
-### Javascript - Nodejs
-<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
-
-### Java - Spring 
-https://github.com/giseletoledo/academianttv2
-
-### Kotlin Spring
-https://github.com/giseletoledo/credit-request-system
-
-<div style="display: flex; gap: 20px;">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" alt="Java" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" alt="NPM" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" height="40" />       
-</div>  
-
-Banco de dados -  SQL, MySQL, H2
-<div style="display: flex; gap: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
-</div>
-
 ## Frontend (Web)
 
 ### React
@@ -56,12 +18,58 @@ Banco de dados -  SQL, MySQL, H2
 
 <p>https://github.com/giseletoledo/ntt-movie</p>
 
-<div style="display: flex; gap: 20px;">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" alt="Angular" height="40" />
+## Backend
+
+### Java - Spring 
+https://github.com/giseletoledo/academianttv2
+
+### Kotlin Spring
+https://github.com/giseletoledo/credit-request-system
+
+### Java - Spring 
+https://github.com/giseletoledo/academianttv2
+
+### Javascript - Nodejs
+<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
+
+## Mobile
+### iOS
+<p>https://github.com/giseletoledo/wheatherapp</p>  
+
+### Android
+<p>https://github.com/giseletoledo/hq-comic-app</p>
+
+### Flutter
+<p>https://github.com/giseletoledo/contatosbloc</p>
+
+<div style="display: flex; row-gap: 100px;">
+  <div align="center">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  alt="HTML5" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="6%" />
+  </div>
+</div>
+
+<div style="display: flex; margin:140px" align="center">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="6%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="6%" />        
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="6%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
+</div>  
+
+<div style="display: flex;margin:140px" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"  alt="Swift" width="6%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  alt="Flutter" width="6%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"  alt="Android" width="6%"/>  
+</div> 
+
+
+<div style="display: flex;" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="60" height="60"  />       
 </div>
 
 -----------------------------------------------------------------------
