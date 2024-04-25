@@ -5,7 +5,7 @@
     A partir de 2014, comecei a desenvolver páginas responsivas em times ágeis, consumo de API, desenvolvimento de aplicação backend com node.js, testes com Selenium e mais recentemente em 2022 testes com Cypress.
     Gosto de participar de comunidades tech e eventos, sempre tentando auxiliar quem está começando.
   </li>
-  <li>:books: Interesse em desenvolvimento Mobile e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo</li>
+  <li>:books: Interesse em desenvolvimento Mobile e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
 </ul>
 
 ## Frontend (Web)
