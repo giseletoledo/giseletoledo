@@ -26,9 +26,6 @@ https://github.com/giseletoledo/academianttv2
 ### Kotlin Spring
 https://github.com/giseletoledo/credit-request-system
 
-### Java - Spring 
-https://github.com/giseletoledo/academianttv2
-
 ### Javascript - Nodejs
 <p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
 
