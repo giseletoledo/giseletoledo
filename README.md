@@ -16,7 +16,7 @@
 <p>https://github.com/giseletoledo/news-app</p>
 
 ### Angular 
-
+https://github.com/giseletoledo/ntt-movie-rgrx
 <p>https://github.com/giseletoledo/ntt-movie</p>
 
 <div style="display: flex; row-gap: 100px;">
