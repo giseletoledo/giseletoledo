@@ -29,6 +29,9 @@
 
 ## Backend
 
+### ASP.NET
+https://github.com/giseletoledo/trilha-dotnet-moduloapi
+
 ### Java - Spring 
 https://github.com/giseletoledo/academianttv2
 
@@ -40,10 +43,12 @@ https://github.com/giseletoledo/credit-request-system
 <p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
 
 <div style="display: flex; margin:140px" align="center">
+  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="6%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="6%" />        
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="6%" />        
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="6%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
 </div>
 
 ## Mobile
