@@ -8,25 +8,6 @@
   <li>:books: Interesse em desenvolvimento Mobile e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
 </ul>
 
-## Frontend (Web)
-
-### React | Nextjs
-
-<p>https://github.com/giseletoledo/todo-list</p>
-<p>https://github.com/giseletoledo/news-app</p>
-
-### Angular 
-https://github.com/giseletoledo/ntt-movie-rgrx
-<p>https://github.com/giseletoledo/ntt-movie</p>
-
-<div style="display: flex; row-gap: 100px;">
-  <div align="center">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="6%" />
-  </div>
-</div>
-
 ## Backend
 
 ### ASP.NET
@@ -49,6 +30,25 @@ https://github.com/giseletoledo/credit-request-system
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="6%" />        
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="6%" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
+</div>
+
+## Frontend (Web)
+
+### React | Nextjs
+
+<p>https://github.com/giseletoledo/todo-list</p>
+<p>https://github.com/giseletoledo/news-app</p>
+
+### Angular 
+https://github.com/giseletoledo/ntt-movie-rgrx
+<p>https://github.com/giseletoledo/ntt-movie</p>
+
+<div style="display: flex; row-gap: 100px;">
+  <div align="center">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="6%" />
+  </div>
 </div>
 
 ## Mobile
