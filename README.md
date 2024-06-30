@@ -10,7 +10,7 @@
 
 ## Frontend (Web)
 
-### React
+### React | Nextjs
 
 <p>https://github.com/giseletoledo/todo-list</p>
 <p>https://github.com/giseletoledo/news-app</p>
