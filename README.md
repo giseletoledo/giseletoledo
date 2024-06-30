@@ -18,6 +18,14 @@
 
 <p>https://github.com/giseletoledo/ntt-movie</p>
 
+<div style="display: flex; row-gap: 100px;">
+  <div align="center">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="6%" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="6%" />
+  </div>
+</div>
+
 ## Backend
 
 ### Java - Spring 
@@ -29,6 +37,13 @@ https://github.com/giseletoledo/credit-request-system
 ### Javascript - Nodejs
 <p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
 
+<div style="display: flex; margin:140px" align="center">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="6%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="6%" />        
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="6%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
+</div>
+
 ## Mobile
 ### iOS
 <p>https://github.com/giseletoledo/wheatherapp</p>  
@@ -38,23 +53,7 @@ https://github.com/giseletoledo/credit-request-system
 
 ### Flutter
 <p>https://github.com/giseletoledo/contatosbloc</p>
-
-<div style="display: flex; row-gap: 100px;">
-  <div align="center">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  alt="HTML5" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="6%" />
-  </div>
-</div>
-
-<div style="display: flex; margin:140px" align="center">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="6%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="6%" />        
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="6%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
-</div>  
+  
 
 <div style="display: flex;margin:140px" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"  alt="Swift" width="6%" />
