@@ -13,10 +13,10 @@
 ### ASP.NET
 https://github.com/giseletoledo/trilha-dotnet-moduloapi
 
-### Java - Spring 
+### Spring com Java
 https://github.com/giseletoledo/academianttv2
 
-### Kotlin Spring
+### Spring com Kotlin
 https://github.com/giseletoledo/credit-request-system
 
 ### Javascript - Nodejs
