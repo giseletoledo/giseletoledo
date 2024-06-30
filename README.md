@@ -13,6 +13,7 @@
 ### React
 
 <p>https://github.com/giseletoledo/todo-list</p>
+<p>https://github.com/giseletoledo/news-app</p>
 
 ### Angular 
 
@@ -35,6 +36,7 @@ https://github.com/giseletoledo/academianttv2
 https://github.com/giseletoledo/credit-request-system
 
 ### Javascript - Nodejs
+<p>https://github.com/giseletoledo/trilha-backend-jr</p>
 <p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
 
 <div style="display: flex; margin:140px" align="center">
