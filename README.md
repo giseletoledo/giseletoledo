@@ -11,6 +11,8 @@
 ## Backend
 
 ### ASP.NET
+https://github.com/giseletoledo/api-games
+https://github.com/giseletoledo/jokes-web-api
 https://github.com/giseletoledo/trilha-dotnet-moduloapi
 
 ### Spring com Java
