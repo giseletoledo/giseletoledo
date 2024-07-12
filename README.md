@@ -1,11 +1,8 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele</li>
-  <li> 💻 Comecei a trabalhar com web em 2011, no início com jogos educativos, animações e infográficos utilizando a linguagem actionscript com Adobe Flash, devido a descontinuação do Flash em browsers e a necessidade de uso em dispositivos móveis fiz a transição de tecnologia para Javascript com HTML5. 
-    A partir de 2014, comecei a desenvolver páginas responsivas em times ágeis, consumo de API, desenvolvimento de aplicação backend com node.js, testes com Selenium e mais recentemente em 2022 testes com Cypress.
-    Gosto de participar de comunidades tech e eventos, sempre tentando auxiliar quem está começando.
-  </li>
-  <li>:books: Interesse em desenvolvimento Mobile e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
+  https://portfolio-rho-wheat-36.vercel.app/
+  <li>:books: Interesse em desenvolvimento de software e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
 </ul>
 
 ## Backend
