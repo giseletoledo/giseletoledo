@@ -13,7 +13,7 @@ https://github.com/giseletoledo/api-games
 
 https://github.com/giseletoledo/jokes-web-api
 
-https://github.com/giseletoledo/trilha-dotnet-moduloapi
+https://github.com/giseletoledo/trilha-net-api-desafio
 
 ### Spring com Java
 https://github.com/giseletoledo/academianttv2
