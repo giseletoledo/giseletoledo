@@ -2,7 +2,9 @@
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele.</li>
   Para saber mais sobre meus projetos e experiência profissional, visite meu portfolio:
-  https://portfolio-rho-wheat-36.vercel.app/
+  
+  [Portfolio](https://portfolio-nkh8cu2dq-giseletoledos-projects.vercel.app/projects)
+  
   <li>:books: Interesse em desenvolvimento de software e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
 </ul>
 
