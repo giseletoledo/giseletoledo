@@ -20,10 +20,6 @@ https://github.com/giseletoledo/academianttv2
 ### Spring com Kotlin
 https://github.com/giseletoledo/credit-request-system
 
-### Javascript - Nodejs
-<p>https://github.com/giseletoledo/trilha-backend-jr</p>
-<p>https://github.com/giseletoledo/backend-challenge-nodejs</p>
-
 <div style="display: flex; margin:140px" align="center">
   
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="6%" />
