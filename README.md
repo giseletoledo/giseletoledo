@@ -11,9 +11,6 @@
 ## Backend
 
 ### ASP.NET
-https://github.com/giseletoledo/api-games
-
-https://github.com/giseletoledo/jokes-web-api
 
 https://github.com/giseletoledo/trilha-net-api-desafio
 
@@ -36,41 +33,6 @@ https://github.com/giseletoledo/credit-request-system
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="6%" />       
 </div>
 
-## Frontend (Web)
-
-### React | Nextjs
-
-<p>https://github.com/giseletoledo/todo-list</p>
-<p>https://github.com/giseletoledo/news-app</p>
-
-### Angular 
-https://github.com/giseletoledo/ntt-movie-rgrx
-<p>https://github.com/giseletoledo/ntt-movie</p>
-
-<div style="display: flex; row-gap: 100px;">
-  <div align="center">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="6%" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="6%" />
-  </div>
-</div>
-
-## Mobile
-### iOS
-<p>https://github.com/giseletoledo/wheatherapp</p>  
-
-### Android
-<p>https://github.com/giseletoledo/hq-comic-app</p>
-
-### Flutter
-<p>https://github.com/giseletoledo/contatosbloc</p>
-  
-
-<div style="display: flex;margin:140px" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"  alt="Swift" width="6%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  alt="Flutter" width="6%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"  alt="Android" width="6%"/>  
-</div> 
 
 ## Banco de dados
 <div style="display: flex;" align="center">
