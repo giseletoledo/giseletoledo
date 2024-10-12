@@ -10,17 +10,27 @@
 
 ## Backend
 
+### Spring com Java
+https://github.com/giseletoledo/academianttv2
+
+### Spring com Kotlin
+https://github.com/giseletoledo/blog-kotlin-spring
+
+https://github.com/giseletoledo/credit-request-system
+
 ### ASP.NET
 
 https://github.com/giseletoledo/TodoApiDocker
 
 https://github.com/giseletoledo/trilha-net-api-desafio
 
-### Spring com Java
-https://github.com/giseletoledo/academianttv2
+### NodeJS
+https://github.com/giseletoledo/trilha-backend-jr
 
-### Spring com Kotlin
-https://github.com/giseletoledo/credit-request-system
+https://github.com/giseletoledo/user-auth
+
+https://github.com/giseletoledo/backend-challenge-nodejs
+
 
 <div style="display: flex; margin:140px" align="center">
   
