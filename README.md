@@ -11,7 +11,12 @@
 ## Backend
 
 ### Spring com Java
-https://github.com/giseletoledo/academianttv2
+https://github.com/giseletoledo/forum
+
+https://github.com/giseletoledo/literalura
+
+https://github.com/giseletoledo/currency-converter
+
 
 ### Spring com Kotlin
 https://github.com/giseletoledo/blog-kotlin-spring
