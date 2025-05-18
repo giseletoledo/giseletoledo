@@ -17,20 +17,9 @@ https://github.com/giseletoledo/literalura
 
 https://github.com/giseletoledo/currency-converter
 
-
-### Spring com Kotlin
-https://github.com/giseletoledo/blog-kotlin-spring
-
-https://github.com/giseletoledo/credit-request-system
-
-### ASP.NET
-
-https://github.com/giseletoledo/TodoApiDocker
-
-https://github.com/giseletoledo/trilha-net-api-desafio
-
 ### NodeJS
-https://github.com/giseletoledo/trilha-backend-jr
+
+https://github.com/giseletoledo/api-node-restaurante
 
 https://github.com/giseletoledo/user-auth
 
