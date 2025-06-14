@@ -21,6 +21,8 @@ https://github.com/giseletoledo/currency-converter
 
 https://github.com/giseletoledo/api-node-restaurante
 
+https://github.com/giseletoledo/user-auth
+
 https://github.com/giseletoledo/backend-challenge-nodejs
 
 
