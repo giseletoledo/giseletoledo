@@ -2,7 +2,7 @@
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele.</li>
   
-  <li>:books: Interesse em desenvolvimento de software e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
+  <li>:books: Tenho interesse em desenvolvimento de software e novas tecnologias. Sou uma pessoa curiosa e em constante aprendizado, por isso desenvolvo projetos explorando diferentes linguagens e ferramentas.</li>
 </ul>
 
 ## Backend
