@@ -1,9 +1,6 @@
 ## :memo: Apresentação em Português (PT-BR)
 <ul style="list-style-type:none">
   <li>👋 Oi, Sou a Gisele.</li>
-  Para saber mais sobre meus projetos e experiência profissional, visite meu portfolio:
-  
-  [Portfolio](https://portfolio-six-teal-49.vercel.app/) 
   
   <li>:books: Interesse em desenvolvimento de software e novas tecnologias, sou uma pessoa que gosta de estar sempre aprendendo, por isso tenho projetos de diferentes tecnologias.</li>
 </ul>
