@@ -7,6 +7,12 @@
 
 ## Backend
 
+### C#
+https://github.com/giseletoledo/trilha-net-poo-desafio
+https://github.com/giseletoledo/trilha-net-api-desafio
+https://github.com/giseletoledo/trilha-net-testes-unitarios-desafio
+https://github.com/giseletoledo/todo-api-docker
+
 ### Spring com Java
 https://github.com/giseletoledo/forum
 
